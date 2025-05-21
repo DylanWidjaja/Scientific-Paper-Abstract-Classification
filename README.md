@@ -2,9 +2,6 @@
 >Training a natural language processing model to classify scientific journal abstracts on academic fields
 
 # Table of Contents
-
-- [Scientific Paper Abstract Classification](#scientific-paper-abstract-classification)
-- [Table of Contents](#table-of-contents)
 - [Specifications](#specifications)
     - [Natural language processing model](#natural-language-processing-model)
     - [Classifying model](#classifying-model)
