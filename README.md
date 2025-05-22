@@ -40,4 +40,4 @@ K-fold cross validation with further training-test split. 3/5 training, 1/5 eval
 **⚠️TRAINING MUST BE DONE AT LEAST ONCE**
 1. Run the "Predicting" cell (the final cell)
 2. Give an input 
-3. The predicted academic field will be returned
+3. The predicted academic field will be returned 
